@@ -69,3 +69,26 @@ Don’t forget to star ⭐ the repository and follow the [OpenTekHub](https://gi
 Big thanks to all the contributors! 🎉
 
 <a href="https://github.com/OpenTekHub/blockchain/pulse"> <img align="center" src="https://contrib.rocks/image?max=100&repo=OpenTekHub/blockchain" /> </a> 
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Stargazers
+
+<div align='left'>
+
+[![Stargazers repo roster for @OpenTekHub/blockchain](https://reporoster.com/stars/OpenTekHub/blockchain)](https://github.com/OpenTekHub/blockchain/stargazers)
+
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="35" height="35"> Forkers
+
+[![Forkers repo roster for @OpenTekHub/blockchain](https://reporoster.com/forks/OpenTekHub/blockchain)](https://github.com/OpenTekHub/blockchain/network/members)
+
+
+
+
+
+
+
+
+
+
